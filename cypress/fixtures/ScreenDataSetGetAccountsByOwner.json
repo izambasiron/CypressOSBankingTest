@@ -1,0 +1,172 @@
+{
+    "versionInfo": {
+        "hasModuleVersionChanged": false,
+        "hasApiVersionChanged": false
+    },
+    "data": {
+        "List": {
+            "List": [
+                {
+                    "Customer": {
+                        "Id": "0",
+                        "FirstName": "",
+                        "LastName": "",
+                        "BirthDate": "1900-01-01",
+                        "Email": "",
+                        "Phone": "",
+                        "UserId": 0,
+                        "Address": "",
+                        "Country": "",
+                        "CountryState": "",
+                        "ZipCode": "",
+                        "Lat": "0.0",
+                        "Lng": "0.0",
+                        "Mobile": "",
+                        "Language": "",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "IsActive": false
+                    },
+                    "AccountThumbnail": {
+                        "Id": "1",
+                        "Filename": "",
+                        "Filetype": "",
+                        "Binary": "",
+                        "_BinaryURL": "screenservices/Banking/_BinaryContent/7DicCHbBY48cQ6bGTI-o6Y45Xm5O30aBVPI4H1L9K4bVaRadVvzF4HjveDvkk2gnfdGV5FMow0JRn2WPRW8C6utBe9kd8GODlB8sUH-8hds=",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00"
+                    },
+                    "Account": {
+                        "Id": "1",
+                        "Name": "Current Account [Fixture]",
+                        "AccountNumber": "1234567890",
+                        "SWIFT": "OSBUS55",
+                        "ElectronicRoutingNumber": "000001234",
+                        "WiresRoutingNumber": "000009876",
+                        "CustomerId": "2",
+                        "Manager": "Ann Olivarria\n",
+                        "Balance": "7845.67000000",
+                        "Overdraft": "600.00000000",
+                        "IsPersonal": true,
+                        "CreatedOn": "1998-08-03T00:00:00Z",
+                        "CreatedBy": 0,
+                        "UpdatedOn": "2024-03-23T04:57:37Z",
+                        "UpdatedBy": 0,
+                        "IsActive": true
+                    }
+                },
+                {
+                    "Customer": {
+                        "Id": "0",
+                        "FirstName": "",
+                        "LastName": "",
+                        "BirthDate": "1900-01-01",
+                        "Email": "",
+                        "Phone": "",
+                        "UserId": 0,
+                        "Address": "",
+                        "Country": "",
+                        "CountryState": "",
+                        "ZipCode": "",
+                        "Lat": "0.0",
+                        "Lng": "0.0",
+                        "Mobile": "",
+                        "Language": "",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "IsActive": false
+                    },
+                    "AccountThumbnail": {
+                        "Id": "2",
+                        "Filename": "",
+                        "Filetype": "",
+                        "Binary": "",
+                        "_BinaryURL": "screenservices/Banking/_BinaryContent/7DicCHbBY48cQ6bGTI-o6Y45Xm5O30aBVPI4H1L9K4bVaRadVvzF4HjveDvkk2gnaA_EuWa6bkGrzDmPievIebhrGkrQUK1d_nA6L_UvrfE=",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00"
+                    },
+                    "Account": {
+                        "Id": "2",
+                        "Name": "Savings Account",
+                        "AccountNumber": "1234567891",
+                        "SWIFT": "OSBUS55",
+                        "ElectronicRoutingNumber": "000001235",
+                        "WiresRoutingNumber": "000009877",
+                        "CustomerId": "2",
+                        "Manager": "Ann Olivarria\n",
+                        "Balance": "10281.77000000",
+                        "Overdraft": "0.00000000",
+                        "IsPersonal": true,
+                        "CreatedOn": "2000-05-28T00:00:00Z",
+                        "CreatedBy": 0,
+                        "UpdatedOn": "2024-03-23T04:57:37Z",
+                        "UpdatedBy": 0,
+                        "IsActive": true
+                    }
+                },
+                {
+                    "Customer": {
+                        "Id": "0",
+                        "FirstName": "",
+                        "LastName": "",
+                        "BirthDate": "1900-01-01",
+                        "Email": "",
+                        "Phone": "",
+                        "UserId": 0,
+                        "Address": "",
+                        "Country": "",
+                        "CountryState": "",
+                        "ZipCode": "",
+                        "Lat": "0.0",
+                        "Lng": "0.0",
+                        "Mobile": "",
+                        "Language": "",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "IsActive": false
+                    },
+                    "AccountThumbnail": {
+                        "Id": "3",
+                        "Filename": "",
+                        "Filetype": "",
+                        "Binary": "",
+                        "_BinaryURL": "screenservices/Banking/_BinaryContent/7DicCHbBY48cQ6bGTI-o6Y45Xm5O30aBVPI4H1L9K4bVaRadVvzF4HjveDvkk2gnDTaviBT5_r1BIqjIiUgAzOqycY8If5bQI0zx-jLMArA=",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00"
+                    },
+                    "Account": {
+                        "Id": "3",
+                        "Name": "Credit Account",
+                        "AccountNumber": "1234567892",
+                        "SWIFT": "OSBUS55",
+                        "ElectronicRoutingNumber": "000001236",
+                        "WiresRoutingNumber": "000009878",
+                        "CustomerId": "2",
+                        "Manager": "Ann Olivarria\n",
+                        "Balance": "500.00000000",
+                        "Overdraft": "1000.00000000",
+                        "IsPersonal": true,
+                        "CreatedOn": "2010-02-19T00:00:00Z",
+                        "CreatedBy": 0,
+                        "UpdatedOn": "2024-03-23T04:57:37Z",
+                        "UpdatedBy": 0,
+                        "IsActive": true
+                    }
+                }
+            ]
+        },
+        "Count": -1
+    }
+}

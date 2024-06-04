@@ -1,0 +1,81 @@
+{
+    "versionInfo": {
+        "hasModuleVersionChanged": false,
+        "hasApiVersionChanged": false
+    },
+    "data": {
+        "List": {
+            "List": [
+                {
+                    "Customer": {
+                        "Id": "0",
+                        "FirstName": "",
+                        "LastName": "",
+                        "BirthDate": "1900-01-01",
+                        "Email": "",
+                        "Phone": "",
+                        "UserId": 0,
+                        "Address": "",
+                        "Country": "",
+                        "CountryState": "",
+                        "ZipCode": "",
+                        "Lat": "0.0",
+                        "Lng": "0.0",
+                        "Mobile": "",
+                        "Language": "",
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "IsActive": false
+                    },
+                    "Transaction": {
+                        "Id": "0",
+                        "AccountId": "0",
+                        "TransactionType": 0,
+                        "SourceAccount": "0",
+                        "DestinationAccount": "0",
+                        "PostingDate": "2024-03-22T04:57:37Z",
+                        "TransactionDate": "2024-03-22T04:57:37Z",
+                        "Description": "Savings for a new car",
+                        "Amount": "5000.00000000",
+                        "Balance": "7845.67000000",
+                        "IsUrgent": false,
+                        "CreatedBy": 0,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00"
+                    },
+                    "TransactionType": {
+                        "Id": 0,
+                        "Label": "",
+                        "Order": 0,
+                        "Is_Active": false,
+                        "OperationSign": "-",
+                        "TextClassName": "text-neutral-9"
+                    },
+                    "Account": {
+                        "Id": "0",
+                        "Name": "",
+                        "AccountNumber": "",
+                        "SWIFT": "",
+                        "ElectronicRoutingNumber": "",
+                        "WiresRoutingNumber": "",
+                        "CustomerId": "0",
+                        "Manager": "",
+                        "Balance": "0.0",
+                        "Overdraft": "0.0",
+                        "IsPersonal": false,
+                        "CreatedOn": "1900-01-01T00:00:00",
+                        "CreatedBy": 0,
+                        "UpdatedOn": "1900-01-01T00:00:00",
+                        "UpdatedBy": 0,
+                        "IsActive": false
+                    }
+                }
+
+            ]
+        },
+        "Count": 7
+    }
+}
