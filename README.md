@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a sample e2e test suite for the Banking application in Outsystems. It uses Cypress to run the tests.
+This project is a simple e2e test suite for the Banking application in Outsystems. It uses Cypress to run the tests.
 
 ## Setting up the banking application in Outsystems
 
@@ -29,7 +29,7 @@ npm install
 ### Run tests in headless mode
 
 ```bash
-npx run cypress run --browser chrome
+npx cypress run --browser chrome
 ```
 
 ### License
